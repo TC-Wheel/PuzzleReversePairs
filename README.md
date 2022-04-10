@@ -1,6 +1,7 @@
 # PuzzleReversePairs
 Reverse pairs are words that are valid backwards and forwards.
-For example: Stressed and desserts are reverse pairs
+
+<br />For example: Stressed and desserts are reverse pairs
 <br /> Stressed dessertS
 <br /> sTressed desserTs
 <br /> stRessed desseRts
